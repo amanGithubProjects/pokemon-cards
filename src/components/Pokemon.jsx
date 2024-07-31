@@ -7,7 +7,7 @@ export const Pokemon = () => {
   const [error , setError] = useState(null);
   const [search , setSearch] = useState("");
 
-  const API = "https://pokeapi.co/api/v2/pokemon?limit=25";
+  const API = "https://pokeapi.co/api/v2/pokemon?limit=28";
 
   const fetchPokemonApi = async () => {
     try {
