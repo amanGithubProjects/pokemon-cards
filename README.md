@@ -3,6 +3,9 @@ This project created on REact.
 
 to run cmd:- npm run dev
 
+![Screenshot 2024-07-30 144444](https://github.com/user-attachments/assets/5068e59f-7b45-41e5-8fc1-7e021378bb67)
+
+
 <!-- This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
